@@ -1,5 +1,5 @@
 # Medium tech writers community in Bangladesh
-A list of [Medium](https://medium.com) tech writers and publications from Bangladesh. 
+A list of [Medium](https://medium.com) tech writers and publications from Bangladesh.
 
 
 ### Publications
@@ -30,3 +30,4 @@ A list of [Medium](https://medium.com) tech writers and publications from Bangla
 - [Ahsan Shafiq Shawon](https://medium.com/@sshawon)
 - [Shajal Ahamed](https://medium.com/@shajalahamedcse)
 - [Md. Saddam Hossain](https://medium.com/@saddamhr)
+- [Anjum Rashid](https://medium.com/@anjumrashidbijoy)
