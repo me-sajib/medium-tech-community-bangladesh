@@ -31,3 +31,4 @@ A list of [Medium](https://medium.com) tech writers and publications from Bangla
 - [Shajal Ahamed](https://medium.com/@shajalahamedcse)
 - [Md. Saddam Hossain](https://medium.com/@saddamhr)
 - [A. S. Md. Ferdousul Haque](https://medium.com/@ferdousul.haque)
+- [Taki Elias](https://medium.com/@taki.elias)
