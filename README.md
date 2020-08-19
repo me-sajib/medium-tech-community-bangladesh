@@ -35,3 +35,4 @@ A list of [Medium](https://medium.com) tech writers and publications from Bangla
 - [Abdullah Al Shahariar](https://medium.com/@shahariar.touhid)
 - [A. S. Md. Ferdousul Haque](https://medium.com/@ferdousul.haque)
 - [Taki Elias](https://medium.com/@taki.elias)
+- [Sabbir Ahmed](https://medium.com/@sabbirshawon)
