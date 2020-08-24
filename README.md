@@ -6,6 +6,7 @@ A list of [Medium](https://medium.com) tech writers and publications from Bangla
 - [Coders Garage](https://medium.com/codersgarage)
 - [Hello Laravel](https://medium.com/hello-laravel)
 - [Code4mk.org](https://medium.com/code4mk-org)
+- [TeachMind](https://medium.com/teachmind)
 
 ### Writers
 - [Ahmed Shamim Hassan](https://medium.com/@me_shaon)
@@ -36,3 +37,4 @@ A list of [Medium](https://medium.com) tech writers and publications from Bangla
 - [A. S. Md. Ferdousul Haque](https://medium.com/@ferdousul.haque)
 - [Taki Elias](https://medium.com/@taki.elias)
 - [Sabbir Ahmed](https://medium.com/@sabbirshawon)
+- [Shalauddin Ahamad Shuza](https://medium.com/@shuza.sa)
