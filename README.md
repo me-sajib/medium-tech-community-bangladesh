@@ -7,6 +7,7 @@ A list of [Medium](https://medium.com) tech writers and publications from Bangla
 - [Hello Laravel](https://medium.com/hello-laravel)
 - [Code4mk.org](https://medium.com/code4mk-org)
 - [TeachMind](https://medium.com/teachmind)
+- [Projuktir Avijatri](https://medium.com/projuktir-avijatri)
 
 ### Writers
 - [Ahmed Shamim Hassan](https://medium.com/@me_shaon)
